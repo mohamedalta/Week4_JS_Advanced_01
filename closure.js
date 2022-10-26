@@ -10,9 +10,9 @@
   users. Write a function that takes in our existing friends and returns
   a function that will tell us if a given user is not already a friend. */
   
-  var friends = ["Ahmed", "Khadijo", "Farah"];
-  var secondLevelFriends = ["Mahad", "Farah", "Mohamed"];
-  var allUsers = ["Ahmed", "Khadijo", "Farah", "Mahad", "Mohamed", "Bashir", "Ali"];
+  var friends = ["Wali", "FAlta"];
+  var secondLevelFriends = ["Farmaajo", "Qaalib"];
+  var allUsers = ["mahmed","Farasani", "Ali"];
   
   function findPotentialFriends(existingFriends) {
   
